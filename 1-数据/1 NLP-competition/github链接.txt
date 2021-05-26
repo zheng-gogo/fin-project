@@ -1,0 +1,2 @@
+https://github.com/yanqiangmiffy/2019-CCF-BDCI-NLP
+本数据来源是2019年CCF-BDCI-NLP竞赛数据，本数据赛题：金融信息负面及主体判定
